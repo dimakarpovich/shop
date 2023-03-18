@@ -1,1 +1,9 @@
 @import "reset";
+.navbar {
+  margin-left: auto;
+  margin-right: auto;
+  padding:20px;
+}
+.active {
+  font-weight: bold;
+}
